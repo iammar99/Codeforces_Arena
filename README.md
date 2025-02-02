@@ -6,7 +6,9 @@ Welcome to my Codeforces problem-solving repository! This collection contains my
 
 Solutions are organized by contest numbers and problem difficulty:
 ```
-
+├───.github
+│   └───workflows
+└───A - Theatre Square
 ```
 
 ## Solutions
