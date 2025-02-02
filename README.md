@@ -37,3 +37,4 @@ You can find my Codeforces profile here: [iammar](https://codeforces.com/profile
 |:----------|:-------------|:---------|
 | 1 | [A - Theatre Square](https://codeforces.com/contest/1/problem/A) | [Solution](./problems/A%20-%20Theatre%20Square/solution.py) |
 | 2 | [A. Young Physicist](https://codeforces.com/contest/69/problem/A) | [Solution](./problems/A%20-%20Young%20Physicist/solution.py) |
+| 3 | [A - Word](https://codeforces.com/contest/59/problem/A) | [Solution](./problems/A%20-%20Word/solution.py) |
